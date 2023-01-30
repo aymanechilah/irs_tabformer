@@ -1,0 +1,26 @@
+path: /home/ayman/Documents/Spanish OCR/segmentation/sp_new
+
+train: train
+val: valid
+
+# Classes
+nc: 17 # number of classes
+names: [
+    'dog',
+    'person',
+    'cat',
+    'tv',
+    'car',
+    'meatballs',
+    'marinara sauce',
+    'tomato soup',
+    'chicken noodle soup',
+    'french onion soup',
+    'chicken breast',
+    'ribs',
+    'pulled pork',
+    'hamburger',
+    'cavity',
+    'form',
+    'table'
+]  # class names
