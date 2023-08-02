@@ -1,4 +1,4 @@
-path: ../irs_dataset
+path: ./irs_dataset
 
 train: train
 val: valid
